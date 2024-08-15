@@ -4,3 +4,5 @@ Projeto Escalante, referente ao desenvolvimento de uma aplicação para criaçã
 Membros:
 Diego da Paz;
 Otávio Mastrantonio;
+Wilbert Souza Adam;
+
